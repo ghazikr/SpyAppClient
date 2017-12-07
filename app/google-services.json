@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "91082552082",
+    "firebase_url": "https://smsfirebaseproject-60952.firebaseio.com",
+    "project_id": "smsfirebaseproject-60952",
+    "storage_bucket": "smsfirebaseproject-60952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91082552082:android:046e55af98d7929e",
+        "android_client_info": {
+          "package_name": "com.example.ghazi.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91082552082-47mabjpduig0h3di0l1o24eun5jgc284.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghazi.sms",
+            "certificate_hash": "168f1d8526db2fe648072de2d234ddf29fc70f5b"
+          }
+        },
+        {
+          "client_id": "91082552082-sgcur0jla9qdpt7ea2b0vjbaggnq827b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuSILlqG8j6EW9507Q6uFYUkZgYmUsA_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91082552082-sgcur0jla9qdpt7ea2b0vjbaggnq827b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
